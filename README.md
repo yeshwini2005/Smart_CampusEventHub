@@ -68,10 +68,3 @@ CampusEventHub/
 - QR code for attendance scanning  
 - Admin analytics dashboard
 
----
-
-## 📬 Contact
-
-Created by **Mullapudi Valli Gayathri**  
-Feel free to raise an issue or reach out for suggestions and improvements.
-
